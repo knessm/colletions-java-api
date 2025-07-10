@@ -1,7 +1,4 @@
-import OperacoesBasicas.CarrinhoDeCompras;
-import OperacoesBasicas.Item;
-
-import java.util.ArrayList;
+import List.OperacoesBasicas.CarrinhoDeCompras;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
